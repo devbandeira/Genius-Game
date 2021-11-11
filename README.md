@@ -1,2 +1,8 @@
-# Genius-Game
-Réplica do jogo Genius criado para desenvolver as habilidades em JavaScript ES6
+## Treinando JavaScript
+
+# Réplica do jogo Genius usando JavaScript, HTML e CSS. 
+
+
+
+
+
